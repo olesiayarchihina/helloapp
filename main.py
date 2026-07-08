@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def greetWhite():
     print("hello white")
 
@@ -8,3 +9,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+print("hello everyone")
+>>>>>>> efac45c (Change greeting)
